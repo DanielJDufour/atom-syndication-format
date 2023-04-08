@@ -68,6 +68,7 @@ parse(xml);
   ],
   "entries": [
     {
+      "xml": "<entry>\n\t\t<title>Atom-Powered Robots Run Amok</title>\n\t\t...", // the raw un-parsed xml for the entry
       "id": "urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a",
       "title": "Atom-Powered Robots Run Amok",
       "published": 2003-11-09T17:23:02Z, // JavaScript Date Object

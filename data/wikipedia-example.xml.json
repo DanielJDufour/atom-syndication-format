@@ -18,6 +18,7 @@
   ],
   "entries": [
     {
+      "xml": "<entry>\n\t\t<title>Atom-Powered Robots Run Amok</title>\n\t\t<link href=\"http://example.org/2003/12/13/atom03\" />\n\t\t<link rel=\"alternate\" type=\"text/html\" href=\"http://example.org/2003/12/13/atom03.html\"/>\n\t\t<link rel=\"edit\" href=\"http://example.org/2003/12/13/atom03/edit\"/>\n\t\t<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>\n        <published>2003-11-09T17:23:02Z</published>\n\t\t<updated>2003-12-13T18:30:02Z</updated>\n\t\t<summary>Some text.</summary>\n\t\t<content type=\"xhtml\">\n\t\t\t<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>This is the entry content.</p>\n\t\t\t</div>\n\t\t</content>\n\t\t<author>\n\t\t\t<name>John Doe</name>\n\t\t\t<email>johndoe@example.com</email>\n\t\t</author>\n\t</entry>",
       "id": "urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a",
       "title": "Atom-Powered Robots Run Amok",
       "published": "2003-11-09T17:23:02Z",

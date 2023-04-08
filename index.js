@@ -190,7 +190,9 @@ atom.parse = function parse(xml, options) {
   });
 
   result.entries = atom.findEntries(xml).map(entry => {
-    const result = {};
+    const result = {
+      xml: entry
+    };
     ["id", "title", "published", "updated", "categories", "content", "summary", "links"].forEach(key => {
       const value = atom["findEntry" + titlecase(key)](entry, options);
       if (Array.isArray(value) ? value.length !== 0 : value !== undefined) {

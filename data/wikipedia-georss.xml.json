@@ -14,6 +14,7 @@
   ],
   "entries": [
     {
+      "xml": "<entry>\n      <title>M 3.2, Mona Passage</title>\n      <link href=\"http://example.org/2005/09/09/atom01\"/>\n      <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>\n      <updated>2005-08-17T07:02:32Z</updated>\n      <summary>We just had a big one.</summary>\n      <georss:point>45.256 -71.92</georss:point>\n   </entry>",
       "id": "urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a",
       "title": "M 3.2, Mona Passage",
       "updated": "2005-08-17T07:02:32Z",
