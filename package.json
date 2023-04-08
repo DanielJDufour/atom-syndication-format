@@ -1,6 +1,6 @@
 {
   "name": "atom-syndication-format",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse Atom Syndication Format Feeds in XML",
   "main": "index.js",
   "files": [
