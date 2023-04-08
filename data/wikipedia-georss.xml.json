@@ -1,0 +1,30 @@
+{
+  "id": "urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6",
+  "title": "Earthquakes",
+  "subtitle": "International earthquake observation labs",
+  "updated": "2005-12-13T18:30:02Z",
+  "author": {
+    "name": "Dr. Thaddeus Remor",
+    "email": "tremor@quakelab.edu"
+  },
+  "links": [
+    {
+      "href": "http://example.org/"
+    }
+  ],
+  "entries": [
+    {
+      "id": "urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a",
+      "title": "M 3.2, Mona Passage",
+      "updated": "2005-08-17T07:02:32Z",
+      "summary": {
+        "summary": "We just had a big one."
+      },
+      "links": [
+        {
+          "href": "http://example.org/2005/09/09/atom01"
+        }
+      ]
+    }
+  ]
+}

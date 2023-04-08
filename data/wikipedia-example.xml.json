@@ -1,0 +1,48 @@
+{
+  "id": "urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6",
+  "title": "Example Feed",
+  "subtitle": "A subtitle.",
+  "updated": "2003-12-13T18:30:02Z",
+  "author": {
+    "name": "John Doe",
+    "email": "johndoe@example.com"
+  },
+  "links": [
+    {
+      "href": "http://example.org/feed/",
+      "rel": "self"
+    },
+    {
+      "href": "http://example.org/"
+    }
+  ],
+  "entries": [
+    {
+      "id": "urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a",
+      "title": "Atom-Powered Robots Run Amok",
+      "published": "2003-11-09T17:23:02Z",
+      "updated": "2003-12-13T18:30:02Z",
+      "content": {
+        "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>This is the entry content.</p>\n\t\t\t</div>",
+        "type": "xhtml"
+      },
+      "summary": {
+        "summary": "Some text."
+      },
+      "links": [
+        {
+          "href": "http://example.org/2003/12/13/atom03"
+        },
+        {
+          "href": "http://example.org/2003/12/13/atom03.html",
+          "rel": "alternate",
+          "type": "text/html"
+        },
+        {
+          "href": "http://example.org/2003/12/13/atom03/edit",
+          "rel": "edit"
+        }
+      ]
+    }
+  ]
+}
